@@ -1,1 +1,1 @@
-# FactorialCalculator
+# Factorial
